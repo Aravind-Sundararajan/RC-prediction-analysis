@@ -30,6 +30,6 @@ class Feedback:
     """ returns a feedback message based on the input list of prediction classifications from the RC NN"""
     def get_feedback(self, input):
         output = self.get_positive_message() + self._process(input)
-        output.replace("IMPAIRED", self.impaired)
-        output.replace("NORMAL", self.normal)
+        output = output.replace("IMPAIRED", self.impaired)
+        output = output.replace("NORMAL", self.normal)
         return output
