@@ -1,0 +1,57 @@
+You demonstrated healthy activity in the last CURRENTTIME .
+You demonstrated healthy two-handed activity in the last CURRENTTIME .
+You demonstrated healthy one-handed activity in the last CURRENTTIME .
+Your two-handed activity in the last CURRENTTIME  was great.
+During two-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was great.
+During one-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was great.
+During two-handed activity in the last CURRENTTIME you used your  IMPAIRED  hand more than your  NORMAL  hand.
+During one-handed activity in the last CURRENTTIME you used your  IMPAIRED  hand more than your  NORMAL  hand.
+You demonstrated healthier activity than last time.
+You demonstrated healthier two-handed activity than last time.
+You demonstrated healthier one-handed activity than last time.
+Your two-handed activity in the last CURRENTTIME  was better than the previous CURRENTTIME .
+During two-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was better than the previous CURRENTTIME .
+During one-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was better than the previous CURRENTTIME .
+During two-handed activity, you used your  IMPAIRED  hand more often this CURRENTTIME .
+During one-handed activity, you used your  IMPAIRED  hand more often this CURRENTTIME .
+You demonstrated healthier activity than the previous hour.
+You demonstrated healthier two-handed activity than the previous hour.
+You demonstrated healthier one-handed activity than the previous hour.
+Your two-handed activity in the last CURRENTTIME  was better than the previous hour.
+During two-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was better than the previous hour.
+During one-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was better than the previous hour.
+During two-handed activity, you used your  IMPAIRED  hand more often this CURRENTTIME  than the previous hour.
+During one-handed activity, you used your  IMPAIRED  hand more often this CURRENTTIME  than the previous hour.
+You demonstrated the healthiest activity all day.
+You demonstrated the healthiest two-handed activity all day.
+You demonstrated the healthiest one-handed activity all day.
+Your two-handed activity in the last CURRENTTIME  was better than it has been all day.
+During two-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was better than it has been all day.
+During one-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was better than it has been all day.
+During two-handed activity, you used your  IMPAIRED  hand more often this CURRENTTIME  than you have all day.
+During one-handed activity, you used your  IMPAIRED  hand more often this CURRENTTIME  than you have all day.
+You demonstrated healthier activity than yesterday.
+You demonstrated healthier two-handed activity than yesterday.
+You demonstrated healthier one-handed activity than yesterday.
+Your two-handed activity in the last CURRENTTIME  was better than yesterday.
+During two-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was better than yesterday.
+During one-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was better than yesterday.
+During two-handed activity, you used your  IMPAIRED  hand more often this CURRENTTIME  than yesterday.
+During one-handed activity, you used your  IMPAIRED  hand more often this CURRENTTIME  than yesterday.
+You demonstrated healthier activity than last week.
+You demonstrated healthier two-handed activity than last week.
+You demonstrated healthier one-handed activity than last week.
+Your two-handed activity in the last CURRENTTIME  was better than last week.
+During two-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was better than last week.
+During one-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was better than last week.
+During two-handed activity, you used your  IMPAIRED  hand more often this CURRENTTIME  than last week.
+During one-handed activity, you used your  IMPAIRED  hand more often this CURRENTTIME  than last week.
+You demonstrated pretty healthy activity in the last CURRENTTIME .
+You demonstrated pretty healthy two-handed activity in the last CURRENTTIME .
+You demonstrated pretty healthy one-handed activity in the last CURRENTTIME .
+Your two-handed activity in the last CURRENTTIME  was pretty good.
+During two-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was pretty good.
+During one-handed activity in the last CURRENTTIME your  IMPAIRED  arm use was pretty good.
+During two-handed activity in the last CURRENTTIME you used your  IMPAIRED  hand almost as much as your  NORMAL  hand.
+During one-handed activity in the last CURRENTTIME you used your  IMPAIRED  hand almost as much as your  NORMAL  hand.
+Keep working towards healthy use of your  IMPAIRED  arm!
